@@ -1,0 +1,2 @@
+# mushroom_classification
+mushroom_classification with machine learning model_RandomForestClassifier 
