@@ -1,2 +1,2 @@
 # mushroom_classification
-mushroom_classification with machine learning model_RandomForestClassifier 
+mushroom_classification with machine learning model_RandomForestClassifier and deep learning MLP algorithm
